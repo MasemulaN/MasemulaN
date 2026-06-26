@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤖 I'm currently learning AI Foundations and Prompt Engineering <br>🌱 Continuously learning about Cloud Computing<br>🎯 Goals: To design and maintain efficient, automated and scalable systems<br>🚀 Aspiring to be a DevOps Engineer<br>🌍 Based in South Africa, open to local and global collaborations</p>
+<p align="left">🤖 I'm currently learning AI Foundations and Prompt Engineering <br>🌱 Continuously learning about Cloud Computing<br>🎯 Goals: To design and maintain efficient, automated and scalable systems<br>🚀 Software Developer <br>🌍 Based in South Africa, open to local and global collaborations</p>
 
 ###
 
