@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a software developer who enjoys building software, solving problems, and continuously learning new technologies. I'm passionate about creating reliable applications while expanding my knowledge in cloud computing, automation, and modern software development practices.</p>
+<p data-importer="text" align="left">I'm a junior software developer who enjoys building software, solving problems, and continuously learning new technologies. I'm passionate about creating reliable applications while expanding my knowledge in cloud computing, automation, and modern software development practices.</p>
 
 ###
 
